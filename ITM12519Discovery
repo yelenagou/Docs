@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2021-06-12T02:28:26.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Moazob3PH7VxKKigXkGs" version="14.7.2" type="github">
+  <diagram id="YjSx0dDJQ8bLykE5KDGq" name="Page-1">
+    <mxGraphModel dx="1038" dy="675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ycvZ9rKWICxDzwbdIJkN-2" value="&lt;h4&gt;&lt;font color=&quot;#00cc00&quot;&gt;Feature: Reduce the public landing page flow so the user does not have to leave the page to set up an account (we can get e-mail confirmation later)&lt;/font&gt;&lt;/h4&gt;&lt;p&gt;As a customer, I want to enter a password from the MyCarrier Register page. This will speed up my process of registering and make my onboarding journey clearer.&lt;/p&gt;&lt;ol class=&quot;ak-ol&quot;&gt;&lt;li&gt;&lt;p&gt;Put a &quot;Set password&quot; field above the register button (below email address if on a public page)&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Remove the confirm password field&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Add a &quot;show password&quot; icon to password field&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;If needed for DB management, clear signups that did not progress beyond password creation after seven days.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;For customers that sign up on a public landing page, they will need to complete the “confirm email” step after entering a password, but before creating a location.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;If needed, protect the site from having signups spammed&lt;/p&gt;&lt;ol class=&quot;ak-ol&quot;&gt;&lt;li&gt;&lt;p&gt;This activity is only needed if there are technical concerns about publicly available account creation.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;glass=0;sketch=1;shadow=0;rounded=0;perimeterSpacing=4;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="19" y="19" width="806" height="339" as="geometry" />
+        </mxCell>
+        <mxCell id="ycvZ9rKWICxDzwbdIJkN-4" value="I" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="22" y="418" width="350" height="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
